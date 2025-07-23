@@ -6,3 +6,4 @@ django-tailwind
 django-crispy-forms
 django-browser-reload
 django-widget-tweaks
+widget_tweaks
