@@ -4,3 +4,5 @@ whitenoise
 dj-database-url
 django-tailwind
 django-crispy-forms
+django-browser-reload
+
